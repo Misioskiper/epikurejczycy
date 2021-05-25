@@ -7,7 +7,9 @@ body {
     line-height: 30px;
     text-align: center;
 }
+/*cos
 
+*/
 strong { font-weight: 600; }
 
 a, a:hover, a:focus { color: #9b59b6; text-decoration: none; transition: all .3s; }
